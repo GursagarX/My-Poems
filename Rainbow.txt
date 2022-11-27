@@ -2,6 +2,7 @@ The Rainbow
 
 Violet
 Indigo
+Blue
 Green
 Orage
 Red
